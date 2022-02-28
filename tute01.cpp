@@ -1,4 +1,4 @@
-
+4
 /*Exercise 1 - Calculations
 
 Convert the C program given below which converts a length given in cm to inches to a C++ program.
